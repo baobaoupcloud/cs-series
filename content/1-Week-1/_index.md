@@ -1,12 +1,10 @@
 ---
-title : "Week 1 - C"
+title : "[Week 1 - C](https://baobaoupcloud.github.io/cs/)"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 pre : " <b> 1. </b> "
 ---
-# [CS50 Week 1 - C](https://baobaoupcloud.github.io/cs/)
-
 ### Overall
 On the first week, we will discover these following contents.
 
