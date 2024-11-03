@@ -5,10 +5,8 @@ weight : 10
 chapter : false
 pre : " <b> 10. </b> "
 ---
-# [CS50 Tuần 10 - An ninh mạng](https://baobaoupcloud.github.io/cs-w10/vi/)
-
 ### Tổng quan
-Chào mừng đến với tuần thứ 10. Ở tuần này, chúng ta sẽ đi qua tổng quan về an ninh mạng với các chủ đề sau.
+Chào mừng đến với [tuần thứ 10](https://baobaoupcloud.github.io/cs-w10/vi/). Ở tuần này, chúng ta sẽ đi qua tổng quan về an ninh mạng với các chủ đề sau.
 
 
 ### Mục lục
