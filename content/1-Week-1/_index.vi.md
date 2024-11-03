@@ -5,10 +5,8 @@ weight : 1
 chapter : false
 pre : " <b> 1. </b> "
 ---
-# [CS50 Tuần 1 - C](https://baobaoupcloud.github.io/cs/vi/)
-
 ### Tổng quan
-Workshop này là ghi chú nhỏ cho khoá học CS50. Ở tuần đầu tiên, chúng ta đi qua các nội dung sau.
+Workshop này là ghi chú nhỏ cho khoá học CS50. Ở [tuần đầu tiên](https://baobaoupcloud.github.io/cs/vi/), chúng ta đi qua các nội dung sau.
 
 ### Mục lục
  1. [Giới-thiệu](https://baobaoupcloud.github.io/cs/vi/1-introduction/)
