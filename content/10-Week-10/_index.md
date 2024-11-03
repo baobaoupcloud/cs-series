@@ -5,10 +5,8 @@ weight : 10
 chapter : false
 pre : " <b> 10. </b> "
 ---
-# [CS50 Week 10 - Cybersecurity](https://baobaoupcloud.github.io/cs-w10/)
-
 ### Overall
-Welcome to week 10. On this week, we will go through an overview of some of the cybersecurity-related topics.
+Welcome to [week 10](https://baobaoupcloud.github.io/cs-w10/). On this week, we will go through an overview of some of the cybersecurity-related topics.
 
 ### Content
  1. [Overview](https://baobaoupcloud.github.io/cs-w10/1-overview/)
