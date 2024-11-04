@@ -5,10 +5,8 @@ weight : 8
 chapter : false
 pre : " <b> 8. </b> "
 ---
-# [CS50 Week 8 - HTML, CSS, JavaScript](https://baobaoupcloud.github.io/cs-w8/)
-
 ### Overall
-Welcome to week 8. On this week, we are going to learn about HTML, CSS, and JavaScript. We will go through these following contents.
+Welcome to [week 8](https://baobaoupcloud.github.io/cs-w8/). On this week, we are going to learn about HTML, CSS, and JavaScript. We will go through these following contents.
 
 ### Content
  1. [Routers](https://baobaoupcloud.github.io/cs-w8/1-routers/)
