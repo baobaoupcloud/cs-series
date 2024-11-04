@@ -5,10 +5,8 @@ weight : 4
 chapter : false
 pre : " <b> 4. </b> "
 ---
-# [CS50 Week 4 - Memory](https://baobaoupcloud.github.io/cs-w4/)
-
 ### Overall
-Welcome to week 4. We will be going deeper into the fundamental building blocks that make up files, including images. Further, we will discuss how to access the underlying data stored in computer memory.
+Welcome to [week 4](https://baobaoupcloud.github.io/cs-w4/). We will be going deeper into the fundamental building blocks that make up files, including images. Further, we will discuss how to access the underlying data stored in computer memory.
 
 
 ### Content
