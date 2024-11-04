@@ -5,10 +5,8 @@ weight : 5
 chapter : false
 pre : " <b> 5. </b> "
 ---
-# [CS50 Tuần 5 - Cấu trúc dữ liệu](https://baobaoupcloud.github.io/cs-w5/vi/)
-
 ### Tổng quan
-Chào mừng đến với tuần thứ 5. Ở tuần này, chúng ta sẽ bàn về cách sắp xếp dữ liệu trong bộ nhớ.
+Chào mừng đến với [tuần thứ 5](https://baobaoupcloud.github.io/cs-w5/vi/). Ở tuần này, chúng ta sẽ bàn về cách sắp xếp dữ liệu trong bộ nhớ.
 
 
 ### Mục lục
