@@ -5,10 +5,8 @@ weight : 6
 chapter : false
 pre : " <b> 6. </b> "
 ---
-# [CS50 Tuần 6 - Python](https://baobaoupcloud.github.io/cs-w6/vi/)
-
 ### Tổng quan
-Chào mừng đến với tuần thứ 6. Ở tuần này, chúng ta sẽ học về một ngôn ngữ lập trình cao cấp hơn là Python. Chúng ta sẽ đi qua các nội dung sau.
+Chào mừng đến với [tuần thứ 6](https://baobaoupcloud.github.io/cs-w6/vi/). Ở tuần này, chúng ta sẽ học về một ngôn ngữ lập trình cao cấp hơn là Python. Chúng ta sẽ đi qua các nội dung sau.
 
 
 ### Mục lục
