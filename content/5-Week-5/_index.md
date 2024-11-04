@@ -5,10 +5,8 @@ weight : 5
 chapter : false
 pre : " <b> 5. </b> "
 ---
-# [CS50 Week 5 - Data Structure](https://baobaoupcloud.github.io/cs-w5/)
-
 ### Overall
-Welcome to week 5. On this week, we are going to talk about organizing data in memory. We will go through these following contents.
+Welcome to [week 5](https://baobaoupcloud.github.io/cs-w5/). On this week, we are going to talk about organizing data in memory. We will go through these following contents.
 
 ### Content
  1. [Data Structures](https://baobaoupcloud.github.io/cs-w5/1-data-structures/)
