@@ -5,10 +5,8 @@ weight : 2
 chapter : false
 pre : " <b> 2. </b> "
 ---
-# [CS50 Week 2 - Arrays](https://baobaoupcloud.github.io/cs-w2/)
-
 ### Overall
-Welcome to the second week of CS50. On this week, we will discover the term “arrays”, which will support our goals of learning more about programming and problem-solving from the bottom up. We will go through these following contents.
+Welcome to the [second week](https://baobaoupcloud.github.io/cs-w2/) of CS50. On this week, we will discover the term “arrays”, which will support our goals of learning more about programming and problem-solving from the bottom up. We will go through these following contents.
 
 ### Content
  1. [Arrays](https://baobaoupcloud.github.io/cs-w2/1-arrays/)
