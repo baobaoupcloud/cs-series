@@ -5,10 +5,8 @@ weight : 3
 chapter : false
 pre : " <b> 3. </b> "
 ---
-# [CS50 Week 3 - Algorithms](https://baobaoupcloud.github.io/cs-w3/)
-
 ### Overall
-Welcome to the third week of CS50. On this week, we will go through some type of algorithms to understand more about this term.
+Welcome to the [third week](https://baobaoupcloud.github.io/cs-w3/) of CS50. On this week, we will go through some type of algorithms to understand more about this term.
 
 ### Content
  1. [Algorithms](https://baobaoupcloud.github.io/cs-w3/1-algorithms/)
