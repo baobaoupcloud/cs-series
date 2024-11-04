@@ -5,10 +5,8 @@ weight : 9
 chapter : false
 pre : " <b> 9. </b> "
 ---
-# [CS50 Tuần 9 - Flask](https://baobaoupcloud.github.io/cs-w9/vi/)
-
 ### Tổng quan
-Chào mừng đến với tuần thứ 9. Ở tuần này, chúng ta sẽ kết hợp HTML, CSS, SQL, Python, và JavaScript để tạo một web application hoàn chỉnh.
+Chào mừng đến với [tuần thứ 9](https://baobaoupcloud.github.io/cs-w9/vi/). Ở tuần này, chúng ta sẽ kết hợp HTML, CSS, SQL, Python, và JavaScript để tạo một web application hoàn chỉnh.
 
 
 ### Mục lục
