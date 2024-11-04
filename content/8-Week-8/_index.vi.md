@@ -5,10 +5,8 @@ weight : 8
 chapter : false
 pre : " <b> 8. </b> "
 ---
-# [CS50 Tuần 8 - HTML, CSS, JavaScript](https://baobaoupcloud.github.io/cs-w8/vi/)
-
 ### Tổng quan
-Chào mừng đến với tuần thứ 8. Ở tuần này, chúng ta sẽ học về HTML, CSS, JavaScript qua các nội dung sau.
+Chào mừng đến với [tuần thứ 8](https://baobaoupcloud.github.io/cs-w8/vi/). Ở tuần này, chúng ta sẽ học về HTML, CSS, JavaScript qua các nội dung sau.
 
 ### Mục lục
  1. [Bộ định tuyến](https://baobaoupcloud.github.io/cs-w8/vi/1-routers/)
