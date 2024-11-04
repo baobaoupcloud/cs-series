@@ -19,4 +19,4 @@ Workshop này là ghi chú nhỏ cho khoá học CS50. Đây một khóa học c
  7. [Tuần 7 - SQL](7-Week-7/)
  8. [Tuần 8 - HTML, CSS, JavaScript](8-Week-8/)
  9. [Tuần 9 - Flask](9-Week-9/)
- 10. [Tuần 10 - Cybersecurity](10-Week-10/)
+ 10. [Tuần 10 - An ninh mạng](10-Week-10/)
