@@ -5,10 +5,8 @@ weight : 6
 chapter : false
 pre : " <b> 6. </b> "
 ---
-# [CS50 Week 6 - Python](https://baobaoupcloud.github.io/cs-w6/)
-
 ### Overall
-Welcome to week 6. On this week, we are we are going to work with a higher-level programming language called Python. We will go through these following contents.
+Welcome to [week 6](https://baobaoupcloud.github.io/cs-w6/). On this week, we are we are going to work with a higher-level programming language called Python. We will go through these following contents.
 
 ### Content
  1. [Python and C](https://baobaoupcloud.github.io/cs-w6/1-differences-between-python-and-c/)
