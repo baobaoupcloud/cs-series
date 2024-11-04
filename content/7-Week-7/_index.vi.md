@@ -5,10 +5,8 @@ weight : 7
 chapter : false
 pre : " <b> 7. </b> "
 ---
-# [CS50 Tuần 7 - SQL](https://baobaoupcloud.github.io/cs-w7/vi/)
-
 ### Tổng quan
-Chào mừng đến với tuần thứ 7. Tuần này, chúng ta sẽ thảo luận về **SQL** (Structured Query Language - Ngôn ngữ Truy vấn Có Cấu trúc). Chúng ta sẽ đi qua các nội dung sau đây.
+Chào mừng đến với [tuần thứ 7](https://baobaoupcloud.github.io/cs-w7/vi/). Tuần này, chúng ta sẽ thảo luận về **SQL** (Structured Query Language - Ngôn ngữ Truy vấn Có Cấu trúc). Chúng ta sẽ đi qua các nội dung sau đây.
 
 
 ### Mục lục
